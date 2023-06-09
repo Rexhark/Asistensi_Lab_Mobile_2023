@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tugas Praktikum 7</string>
+    <string name="name">Name</string>
+    <string name="name_email_com">name@email.com</string>
+    <string name="please_check_your_internet_connection">Please check your internet connection!</string>
+</resources>

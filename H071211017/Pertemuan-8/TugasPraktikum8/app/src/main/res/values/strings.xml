@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tugas Praktikum 8</string>
+    <string name="submit">Submit</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="delete">Delete</string>
+    <string name="createdat">createdAt</string>
+    <string name="belum_ada_catatan">Belum ada catatan</string>
+    <string name="catatan_tidak_ditemukan">Catatan tidak ditemukan</string>
+    <string name="noteapp"> NoteApp</string>
+</resources>

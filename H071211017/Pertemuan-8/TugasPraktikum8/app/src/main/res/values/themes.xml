@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TugasPraktikum8" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimaryDark">@color/pastel_blue</item>
+    </style>
+
+    <style name="Theme.TugasPraktikum8" parent="Base.Theme.TugasPraktikum8" />
+</resources>

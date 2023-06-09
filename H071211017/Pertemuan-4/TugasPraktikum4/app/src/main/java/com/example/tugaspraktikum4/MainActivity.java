@@ -49,7 +49,6 @@ public class MainActivity extends AppCompatActivity {
         Person person10 = new Person(R.drawable.aisha,"Aisha","+62 812-3456-7890","Available","April 12, 2023","09:12","Halo, apa kabar?");
         listPerson.add(person10);
 
-
         PersonAdapter personAdapter = new PersonAdapter(listPerson);
         rvChat.setAdapter(personAdapter);
         rvChat.setLayoutManager(new LinearLayoutManager(this));
